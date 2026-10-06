@@ -1,0 +1,7 @@
+{
+  "name": "BeliKuy - Mobile Ecommerce SuperApp",
+  "description": "Aplikasi e-commerce mobile kelas dunia terinspirasi Shopee & Tokopedia dengan Flash Sale, Live Streaming Shopping, Voucher Gratis Ongkir, dan Checkout Multi-Pembayaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
